@@ -15,4 +15,4 @@ The last step is to detect and isolate the iris area. Again the program automati
 ![promisechains](https://github.com/IhabMoha/Iris-Image-Processing/blob/master/Screen%20Shots/iris_3.PNG)
 
 
-Please note that this work is part of an unfinished research on Iris detection that I started years ago with Dr. Loay the head of computer sceience at Baghdad university, I stopped progressing on the research because I started my Ph.D. program and didn't have the time to finish it. The steps and details of every step is documented in the prgram and the library, please feel free to download and use both of them.
+Please note that this work is part of an unfinished research on Iris detection that I started years ago with Dr. Loay the head of computer sceience department at Baghdad university, I stopped progressing on the research because I started my Ph.D. program and didn't have the time to finish it. The steps and details of every step is documented in the prgram and the library, please feel free to download and use both of them.
