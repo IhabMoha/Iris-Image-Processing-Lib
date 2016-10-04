@@ -9,7 +9,8 @@ The second step is to detect and isolate the pupil area as shown in the followin
 
 ![promisechains](https://github.com/IhabMoha/Iris-Image-Processing/blob/master/Screen%20Shots/iris_2.PNG)
 
-
+For more informtion about the setps for isolating the pupil area, read the research paper I published in 2011 which describes the process, the paper: "Fine Circular Pupil Localization. Journal of Al-Nahrain University Science (JNUS) Vol.14, No.1, March,
+2011, pp.179-185 Al-Nahrain University / College of Science Al-Jadiria / Baghdad / Iraq"
 The last step is to detect and isolate the iris area. Again the program automatically open multiple windows and show the steps:
 
 ![promisechains](https://github.com/IhabMoha/Iris-Image-Processing/blob/master/Screen%20Shots/iris_3.PNG)
